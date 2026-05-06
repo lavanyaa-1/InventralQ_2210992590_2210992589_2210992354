@@ -6,4 +6,4 @@
        B)Devansh Mahajan  2210992589
        C)Shruti           2210992354
 4. CURRENT STATUS : Completed
-//Full-stack AI-based inventory management system with ML demand prediction.
+
